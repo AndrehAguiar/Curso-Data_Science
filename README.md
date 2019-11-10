@@ -13,7 +13,7 @@ Visualização de dados é uma importante área de estudo para Data Science. Nes
  <li>Construir gráficos de linhas, barras, dispersão e boxplot</li>
  <li>pular dados para construção de gráficos</li>
 </ul>
-<b> there any course requirements or prerequisites?</
+<b>Are there any course requirements or prerequisites?</b>
 <ul>
  <li>Lógica de programação</li>
  <li>Linguagem Python (básico)</li>
@@ -30,5 +30,5 @@ Por: <b>Diego Mariano, Ph.D.<b><br />
 Doutor, mestre e professor de ensino à distância<br />
 Saiba mais em: [udemy.com]("https://www.udemy.com/course/visualizacao-de-dados-com-python/")<br />
  
- Aluno: André Aguiar
- [topartes.com]("http://topartes.com.br")
+ Aluno: André Aguiar<br />
+[topartes.com]("http://topartes.com")
