@@ -28,7 +28,7 @@ Visualização de dados é uma importante área de estudo para Data Science. Nes
 </ul>
 Por: <b>Diego Mariano, Ph.D.<b><br />
 Doutor, mestre e professor de ensino à distância<br />
-Saiba mais em: [udemy.com](https://www.udemy.com/course/visualizacao-de-dados-com-python/)<br />
+Saiba mais em: [udemy.com](https://udemy.com/course/visualizacao-de-dados-com-python/)<br />
  
  Aluno: André Aguiar<br />
 [topartes.com](http://topartes.com)
