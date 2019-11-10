@@ -1,7 +1,7 @@
 # Curso-Data_Science
  Visualização de Dados com Python
 
-<b>About this course</b>
+<b>About this course</b><br />
 Aprenda a construir visualizações de dados usando a linguagem de programação Python e a biblioteca Pyplot
 
 Visualização de dados é uma importante área de estudo para Data Science. Neste curso, abordaremos alguns conceitos importantes para criação de visualizações e gráficos em geral com a linguagem de programação Python. Conheceremos a biblioteca MATPLOTLIB PYPLOT e manipularemos dados obtidos no DataSUS e em bancos de dados de bioinformática. Matricule-se já!
