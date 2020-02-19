@@ -8,10 +8,10 @@ Visualização de dados é uma importante área de estudo para Data Science. Nes
 
 <b>What you’ll learn</b>
 <ul>
- <li>alizar de dados com Python</li>
+ <li>Analizar de dados com Python</li>
  <li>Conhecer a biblioteca MATPLOTLIB PYPLOT</li>
  <li>Construir gráficos de linhas, barras, dispersão e boxplot</li>
- <li>pular dados para construção de gráficos</li>
+ <li>Organizar dados para construção de gráficos</li>
 </ul>
 <b>Are there any course requirements or prerequisites?</b>
 <ul>
