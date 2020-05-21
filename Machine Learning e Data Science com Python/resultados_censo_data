@@ -1,0 +1,105 @@
+Censo Data
+-----------------
+PRECISÃO
+-----------------
+0,7565 = Baseline classifier -> test_size = 0.25
+
+
+0.4767 - Naive Bayes (Incosistentes + OneHotEncoder + LabelEncoder + StandardScaler)
+        -> test_size = 0.15
+
+0.7950 - Naive Bayes (Incosistentes + OneHotEncoder + StandardScaler)
+        -> test_size = 0.15
+
+0.8057 - Naive Bayes (Incosistentes + LabelEncoder + StandardScaler)
+        -> test_size = 0.15
+
+0.7952 - Naive Bayes (Incosistentes + LabelEncoder)
+        -> test_size = 0.15
+
+=========================================================================
+
+0.8164 - Árvore de Decisão (OneHotEncoder + LabelEncoder + StandardScaler)
+        -> test_size = 0.25
+
+0.8164 - Árvore de Decisão (OneHotEncoder + StandardScaler)
+        -> test_size = 0.25
+
+0.8128 - Árvore de Decisão (LabelEncoder + StandardScaler)
+        -> test_size = 0.15
+
+0.8128 - Árvore de Decisão (LabelEncoder)
+        -> test_size = 0.15
+
+=========================================================================
+
+0.8492 - Árvore Aleatória (OneHotEncoder + LabelEncoder + StandardScaler)
+        -> test_size=0.25 / n_estimators=40 / criterion='entropy'
+
+0.8492 - Árvore Aleatória (OneHotEncoder + StandardScaler)
+        -> test_size=0.25 / n_estimators=40 / criterion='entropy'
+
+0.8548 - Árvore Aleatória (LabelEncoder + StandardScaler)
+        -> test_size=0.25 / n_estimators=40 / criterion='entropy'
+
+0.8545 - Árvore Aleatória (LabelEncoder)
+        -> test_size=0.25 / n_estimators=40 / criterion='entropy'
+
+================================================================
+
+0.816 - Regras(CN2)-Orange (Sem pré-processamento)
+        -> test_size=0.25
+
+================================================================
+
+0.7691 - kNN (OneHotEncoder + LabelEncoder)
+        -> test_size = 0.25 / n_neighbors=5, metric='minkowski', p=2
+
+0.8212 - kNN (OneHotEncoder + LabelEncoder + Escalonamento)
+        -> test_size = 0.25 / n_neighbors=5, metric='minkowski', p=2
+
+0.8247 - kNN (LabelEncoder + Escalonamento)
+        -> test_size = 0.25 / n_neighbors=5, metric='minkowski', p=2
+
+0.7684 - kNN (LabelEncoder)
+        -> test_size = 0.25 / n_neighbors=5, metric='minkowski', p=2
+
+================================================================
+
+0.7958 - Regressão Logística (OneHotEncoder + LabelEncoder)
+        -> test_size = 0.25 / random_state=1
+
+0.8502 - Regressão Logística (OneHotEncoder + LabelEncoder + Escalonamento)
+        -> test_size = 0.25 / random_state=1
+
+0.8216 - Regressão Logística (LabelEncoder + Escalonamento)
+        -> test_size = 0.25 / random_state=1
+
+0.7664 - Regressão Logística (LabelEncoder)
+        -> test_size = 0.25 / random_state=1
+
+================================================================
+
+0.8312 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        -> test_size=0.25 / kernel='poly', random_state=1
+
+0.8241 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        -> test_size=0.25 / kernel='sigmoid', random_state=1
+
+0.8479 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        -> test_size=0.25 / kernel='rbf', random_state=1
+
+0.850 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        -> test_size=0.25 / kernel='linear', random_state=1
+
+0.8505 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        -> test_size=0.25 / kernel='linear', random_state=1, C = 2.0
+
+0.8126 - CSV_SVM (LabelEncoder + Escalonamento)
+        -> test_size = 0.25 / kernel='linear', random_state=1, C = 2.0
+
+0.8505 - CSV_SVM (OneHotEncoder + StandardScaler)
+        -> test_size = 0.25 / kernel='linear', random_state=1, C = 2.0
+
+0.7958 - CSV_SVM (OneHotEncoder + LabelEncoder)
+        -> test_size = 0.25 / kernel='linear', random_state=1, C = 2.0

@@ -1,0 +1,61 @@
+Credit Data -> SimpleImputer = Mean -> StandardScaler
+-----------------
+PRECISÃO
+-----------------
+0.872 = Baseline classifier -> test_size = 0.25
+
+----------------------------------------------------------------
+
+0.938 - Naive Bayes (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.15
+
+================================================================
+
+0.982 - Árvore de Decisão (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.15 / criterion='entropy'
+
+================================================================
+
+0.984 - Árvore Aleatória (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / n_estimators=40 / criterion='entropy'
+
+================================================================
+
+0.986 - Regras(CN2)-Orange (Sem pré-processamento)
+        ->test_size=0.25 / criterion='entropy'
+
+0.983 - Regras(CN2)-Orange_Interface-Gráfica (Sem pré-processamento)
+        ->test_size=0.25 / criterion='entropy'
+
+================================================================
+
+0.836 - KNN (Incosistentes + faltantes)
+        ->test_size=0.25 / n_neighbors=5, metric='minkowski', p=2
+
+0.986 - KNN (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / n_neighbors=5, metric='minkowski', p=2
+
+================================================================
+
+0.946 - Regressão Logística (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / random_state=1
+
+0.93 - Regressão Logística (Incosistentes + faltantes)
+        ->test_size=0.25 / random_state=1
+
+================================================================
+
+0.968 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / kernel='poly', random_state=1
+
+0.946 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / kernel='linear', random_state=1
+
+0.838 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / kernel='sigmoid', random_state=1
+
+0.982 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / kernel='rbf', random_state=1
+
+0.988 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 / kernel='rbf', random_state=1, C = 2.0
