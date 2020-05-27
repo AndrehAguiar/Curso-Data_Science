@@ -59,3 +59,19 @@ PRECISÃO
 
 0.988 - CSV_SVM (Incosistentes + faltantes + escalonamento)
         ->test_size=0.25 / kernel='rbf', random_state=1, C = 2.0
+
+================================================================
+
+0.996 - Rede Neural(MLP) (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 /  verbose = True,
+                            max_iter=1000,
+                            tol = 1e-6,
+                            solver = 'adam',
+                            hidden_layer_sizes=(100),
+                            activation='relu'
+                            
+================================================================
+
+0.976 - Keras (Incosistentes + faltantes + escalonamento)
+        ->test_size=0.25 /  batch_size = 10,
+                            nb_epoch = 100

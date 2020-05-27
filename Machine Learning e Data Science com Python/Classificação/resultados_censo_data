@@ -80,19 +80,19 @@ PRECISÃO
 
 ================================================================
 
-0.8312 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+0.8312 - CSV_SVM (OneHotEncoder + LabelEncoder + Escalonamento)
         -> test_size=0.25 / kernel='poly', random_state=1
 
-0.8241 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+0.8241 - CSV_SVM (OneHotEncoder + LabelEncoder + Escalonamento)
         -> test_size=0.25 / kernel='sigmoid', random_state=1
 
-0.8479 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+0.8479 - CSV_SVM (OneHotEncoder + LabelEncoder + Escalonamento)
         -> test_size=0.25 / kernel='rbf', random_state=1
 
-0.850 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+0.850 - CSV_SVM (OneHotEncoder + LabelEncoder + Escalonamento)
         -> test_size=0.25 / kernel='linear', random_state=1
 
-0.8505 - CSV_SVM (Incosistentes + faltantes + escalonamento)
+0.8505 - CSV_SVM (OneHotEncoder + LabelEncoder + Escalonamento)
         -> test_size=0.25 / kernel='linear', random_state=1, C = 2.0
 
 0.8126 - CSV_SVM (LabelEncoder + Escalonamento)
@@ -103,3 +103,44 @@ PRECISÃO
 
 0.7958 - CSV_SVM (OneHotEncoder + LabelEncoder)
         -> test_size = 0.25 / kernel='linear', random_state=1, C = 2.0
+        
+================================================================
+
+0.8341 - Rede Neural(MLP) (OneHotEncoder + LabelEncoder + Escalonamento)
+        ->test_size=0.25 /  max_iter=1000,
+                            tol = 10e-6,
+                            solver = 'adam',
+                            hidden_layer_sizes=(100),
+                            activation=auto
+                            
+0.8444 - Rede Neural(MLP) (OneHotEncoder + StandardScaler)
+        ->test_size=0.25 /  max_iter=1000,
+                            tol = 10e-6,
+                            solver = 'adam',
+                            hidden_layer_sizes=(100),
+                            activation='relu'
+                            
+0.8473 - Rede Neural(MLP) (LabelEncoder + Escalonamento)
+        ->test_size=0.25 /  max_iter=1000,
+                            tol = 10e-6,
+                            solver = 'adam',
+                            hidden_layer_sizes=(100),
+                            activation=auto
+                            
+================================================================
+
+0.8174 - Keras (OneHotEncoder + LabelEncoder + Escalonamento)
+        ->test_size=0.25 /  batch_size = 10,
+                            nb_epoch = 100
+                                                  
+0.7565 - Keras (LabelEncoder)
+        ->test_size=0.25 /  batch_size = 10,
+                            nb_epoch = 100   
+                                                  
+0.2434 - Keras (OneHotEncoder + LabelEncoder)
+        ->test_size=0.25 /  batch_size = 10,
+                            nb_epoch = 100  
+                                                  
+0.8463 - Keras (LabelEncoder + Escalonamento)
+        ->test_size=0.25 /  batch_size = 10,
+                            nb_epoch = 100      
