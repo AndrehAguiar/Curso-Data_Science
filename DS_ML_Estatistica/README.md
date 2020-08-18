@@ -29,12 +29,12 @@ Formação Cientista de Dados Curso Completo de Ciência de Dados, Aprendizado d
  <li>Desenvolvedores de outra linguagem interessados em Data Science e Estatística</li>
  <li>Estudantes e Profissionais de TI interessados em ingressar no ramo de Data Science</li>
 </ul>
-Por: <b>Danilo Moreira<br />
+Por: <b>Danilo Moreira</b><br />
 Cientista de Dados<br />
 
 <p>"Olá, meu nome é Danilo! Sou apaixonado por aprender coisas novas e compartilhar com outras pessoas. Acho que isso faz parte da essência da vida. Estou sempre aprendendo, e não gosto de guardar os conhecimentos apenas para mim. Por isso, é um grande prazer poder contribuir para o seu desenvolvimento profissional e pessoal.</p>
 
-<p>A minha visão de programação é um pouco diferente da convencional. Eu vejo a programação tal qual é um pincel para um artista: é uma ferramenta para você criar a sua arte. Ser um programador te dá um potencial de criar coisas incríveis. Especialmente quando envolve análise e manipulação de dados. </p>
+<p>A minha visão de programação é um pouco diferente da convencional. Eu vejo a programação tal qual é um pincel para um artista: é uma ferramenta para você criar a sua arte. Ser um programador te dá um potencial de criar coisas incríveis. Especialmente quando envolve análise e manipulação de dados." </p>
 
 <p>Junte-se a mim, pois você pode ter certeza que farei o meu melhor para que você tenha uma experiência de aprendizado agradável e recompensadora! </p>
 
