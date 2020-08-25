@@ -1,35 +1,7 @@
-# Curso-Data_Science
- Visualização de Dados com Python
-
-<b>About this course</b><br />
-Aprenda a construir visualizações de dados usando a linguagem de programação Python e a biblioteca Pyplot
-
-Visualização de dados é uma importante área de estudo para Data Science. Neste curso, abordaremos alguns conceitos importantes para criação de visualizações e gráficos em geral com a linguagem de programação Python. Conheceremos a biblioteca MATPLOTLIB PYPLOT e manipularemos dados obtidos no DataSUS e em bancos de dados de bioinformática. Matricule-se já!
-
-<b>What you’ll learn</b>
-<ul>
- <li>Analizar de dados com Python</li>
- <li>Conhecer a biblioteca MATPLOTLIB PYPLOT</li>
- <li>Construir gráficos de linhas, barras, dispersão e boxplot</li>
- <li>Organizar dados para construção de gráficos</li>
-</ul>
-<b>Are there any course requirements or prerequisites?</b>
-<ul>
- <li>Lógica de programação</li>
- <li>Linguagem Python (básico)</li>
- <li>HTML (recomendado, mas não obrigatório)</li>
-</ul>
-<b>Who this course is for:</b>
-<ul>
- <li>Programadores Python</li>
- <li>Pessoas interessadas em visualização de dados</li>
- <li>Cientistas de dados (especialistas em Data Science)</li>
- <li>Entusiastas de programação e visualização de dados</li>
-</ul>
-Por: <b>Diego Mariano, Ph.D.<b><br />
-Doutor, mestre e professor de ensino à distância<br />
+# Data Science: Visualização de Dados com Python
+<div style=""><div><div class="course-overview--container--2OKKD" data-purpose="dashboard-overview-container"><div class="course-overview--heading--290FL" data-purpose="course-headline"><div class="font-heading-lg mb-space-sm">About this course</div><p>Aprenda a construir visualizações de dados usando a linguagem de programação Python e a biblioteca Pyplot</p></div><div class="course-overview--grid-row--1nKqQ"><div>By the numbers</div><div data-purpose="course-main-stats"><div>Skill level: Intermediate Level</div><div>Students: 219211</div><div>Languages: Portuguese</div><div>Captions: Yes</div></div><div data-purpose="course-additional-stats"><div>Lectures: 24</div><div>Video: 1 total hour</div></div></div><div class="course-overview--grid-row--1nKqQ course-overview--course-features--2fF12" data-purpose="course-features"><div>Features</div><div class="course-overview--wide--37Lev"><span>Available on <a href="https://udemy.app.link/Hu6uHmivf9" target="_blank" rel="noopener noreferrer">iOS</a> and <a href="https://udemy.app.link/Hu6uHmivf9" target="_blank" rel="noopener noreferrer">Android</a></span></div></div><div class="course-overview--grid-row--1nKqQ"><div>Description</div><div class="course-overview--wide--37Lev course-overview--description--2m1iq" data-purpose="course-description"><div data-purpose="safely-set-inner-html:trusted-html:content"><p>Visualização de dados é uma importante área de estudo para <em>Data Science. </em>Neste curso, abordaremos alguns conceitos importantes para criação de visualizações e gráficos em geral com a linguagem de programação Python. Conheceremos a biblioteca MATPLOTLIB PYPLOT e manipularemos dados obtidos no DataSUS e em bancos de dados de bioinformática. Matricule-se já!</p></div><h4>What you’ll learn</h4><ul><li>Visualizar de dados com Python</li><li>Conhecer a biblioteca MATPLOTLIB PYPLOT</li><li>Construir gráficos de linhas, barras, dispersão e boxplot</li><li>Manipular dados para construção de gráficos</li></ul><h4>Are there any course requirements or prerequisites?</h4><ul><li>Lógica de programação</li><li>Linguagem Python (básico)</li><li>HTML (recomendado, mas não obrigatório)</li></ul><h4>Who this course is for:</h4><ul><li>Programadores Python</li><li>Pessoas interessadas em visualização de dados</li><li>Cientistas de dados (especialistas em Data Science)</li><li>Entusiastas de programação e visualização de dados</li></ul></div></div><div class="course-overview--grid-row--1nKqQ"><div>Instructor</div><div class="course-overview--wide--37Lev"><div class="instructor-profile--header-row--n0Prm"><img alt="User photo" aria-label="User photo" class="user-avatar user-avatar--image" data-purpose="user-avatar" height="64" width="64" src="https://img-a.udemycdn.com/user/200_H/31056768_f957_3.jpg"><div class="instructor-profile--title-wrapper--2V1u6"><div class="instructor-profile--title--1rlDt"><a href="/user/diego-mariano/" data-purpose="instructor-url">Diego Mariano, Ph.D.</a></div><p>Cientista de Dados e Doutor em Bioinformática</p></div></div><div class="instructor-profile--social-links-row--14uvr"><a href="https://twitter.com/diiegomariano" class="instructor-profile--social-profile-btn--fs2ve" target="_blank" rel="noopener noreferrer nofollow"><span aria-label="Twitter" class="udi udi-twitter"></span></a><a href="https://www.facebook.com/professordiegomariano" class="instructor-profile--social-profile-btn--fs2ve" target="_blank" rel="noopener noreferrer nofollow"><span aria-label="Facebook" class="udi udi-facebook"></span></a><a href="https://linkedin.com/in/diego-mariano-9182b623/" class="instructor-profile--social-profile-btn--fs2ve" target="_blank" rel="noopener noreferrer nofollow"><span aria-label="LinkedIn" class="udi udi-linkedin"></span></a><a href="https://www.youtube.com/dcbmariano" class="instructor-profile--social-profile-btn--fs2ve" target="_blank" rel="noopener noreferrer nofollow"><span aria-label="YouTube" class="udi udi-youtube"></span></a><a href="https://diegomariano.com" class="instructor-profile--social-profile-btn--fs2ve" target="_blank" rel="noopener noreferrer nofollow"><span aria-label="Personal website" class="udi udi-globe"></span></a></div><div class="instructor-profile--description--vCsKv"><div data-purpose="safely-set-inner-html:trusted-html:content"><p>Diego Mariano é analista de sistemas, pesquisador e professor de programação, banco de dados e bioinformática.</p><p><strong>Doutor</strong> <strong>em Bioinformática</strong> pela Universidade Federal de Minas Gerais com atuação na área de ciência de dados e aprendizado de máquina aplicados ao aperfeiçoamento de enzimas usadas na produção de biocombustíveis. <strong>Mestre em Bioinformática</strong>, também pela UFMG, atuando na área de desenvolvimento de sistemas Web para montagem de genomas. Atualmente realiza estágio pós-doutoral no Departamento de Ciência da Computação da UFMG com foco em desenvolvimento de sistemas Web para Bioinformática, análise exploratória e visualização de dados. Tem conhecimentos nas linguagens: PHP, JavaScript, Python, R, Perl, HTML, CSS e SQL.</p><p>***</p><p><strong>English: </strong>Diego Mariano is a systems analyst and instructor of online courses about Programming Languages, Database Management Systems, and Bioinformatics (some courses are free). He is a postdoctoral researcher at the Federal University of Minas Gerais and a Professional Degree student at HarvardX. Also, he has majored in Information Systems and he has a master's degree and a Ph.D. in Bioinformatics. </p><p>***</p><p><strong>Español: </strong>Dr. Diego Mariano es analista de sistemas, investigador y docente de cursos en línea sobre lenguajes de programación, bases de datos y bioinformática (algunos cursos son gratuitos). Actualmente es post-doc de la Universidad Federal de Minas Gerais y estudiante de grado profesional en HarvardX. Además, se graduó en sistemas de información y tiene una maestría en bioinformática.</p></div></div></div></div></div></div></div>
  
-Saiba mais em: [udemy.com](https://udemy.com/course/visualizacao-de-dados-com-python)
+Saiba mais em: [udemy.com](https://www.udemy.com/share/101sXOBUUfdFpRRng=/)
  
  Aluno: André Aguiar<br />
 [topartes.com](http://topartes.com)
