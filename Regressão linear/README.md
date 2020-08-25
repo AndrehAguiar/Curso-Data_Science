@@ -4,19 +4,12 @@ Bootcamp completo em Data Science
 <b>About this course</b><br />
 Treinamento Completo em Data Science: Matemática, Estatística, Python, Estatística Avançada, Machine & Deep Learning
 · Entendimento do campo da ciência de dados e os tipos de análises usadas
-
 · Matemática
-
 · Estatística
-
 · Python
-
 · Aplicação de técnicas estatísticas avançadas em Python
-
 · Visualização de dados
-
 · Machine Learning
-
 · Deep Learning
 
 Cada um desses tópicos se baseia no anterior. E há um risco de você se perder no meio do caminho se não aprender as habilidades na ordem certa. Por exemplo, uns podem ter dificuldades na aplicação de técnicas de Machine Learning antes de entender a Matemática por trás. Ou, pode ser difícil estudar análises de regressão em Python sem antes ver o que é uma regressão.
@@ -60,17 +53,11 @@ Big data, estratégia empresarial, analytics de negócios, machine learning e in
 &nbsp; </p><p>
 
 <strong>1) Finance</strong> – Finance fundamentals, Financial modeling in Excel, Valuation, Accounting, Capital budgeting, Financial statement analysis (FSA), Investment banking (IB), Leveraged buyout (LBO), Financial planning and analysis (FP&amp;A), Corporate budgeting, applying Python for Finance, Tesla valuation case study, CFA, ACCA, and CPA</p><p><strong>2) Data science</strong> – Statistics, Mathematics, Probability, SQL, Python programming, Python for Finance, Business Intelligence, R, Machine Learning, TensorFlow, Tableau, the integration of SQL&nbsp;and&nbsp;Tableau, the integration of SQL, Python, Tableau, Power&nbsp;BI, Credit Risk Modeling, and Credit Analytics</p><p><strong>3) Entrepreneurship</strong> – Business Strategy, Management and HR Management, Marketing, Decision Making, Negotiation, and Persuasion, Tesla's Strategy and Marketing</p><p><strong>4) Office productivity</strong> – Microsoft Excel, PowerPoint, Microsoft Word, and Microsoft Outlook</p><p><strong>5)</strong> <strong>Blockchain for Business</strong></p><p>All of the company’s courses are:
-
 &nbsp; </p><p>Pre-scripted
-
 &nbsp; </p><p>Hands-on 
-
 &nbsp; </p><p>Laser-focused
-
 &nbsp; </p><p>Engaging
-
 &nbsp; </p><p>Real-life tested
-
 &nbsp; </p><p>By choosing 365 Careers, you make sure you will learn from proven experts, who have a passion for teaching, and can take you from beginner to pro in the shortest possible amount of time.
 
 &nbsp; </p><p>If you want to become a financial analyst, a finance manager, an FP&amp;A analyst, an investment banker, a business executive, an entrepreneur, a business intelligence analyst, a data analyst, or a data scientist, <strong>365 Careers’ courses are the perfect place to start.&nbsp;</strong>
