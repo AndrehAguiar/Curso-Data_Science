@@ -1,0 +1,28 @@
+/**** INSERT '0' TO COMPLETE [Customer ID] LEN == 7 ****/
+
+UPDATE [dbo].[WRK_CLIENTES]
+SET [Customer ID] = RIGHT('0000000' + [Customer ID], 7)
+FROM [dbo].[WRK_CLIENTES]
+
+########################################################################
+
+/***** CREATE VIEW INNER JOIN ON dbo.WRK_CLIENTES.[Customer ID] = dbo.WRK_TRANSACOES.[Customer ID] *****/
+
+CREATE VIEW V_DRV_CLIENTESTRANSACOES
+AS
+SELECT
+		dbo.WRK_CLIENTES.[Customer ID],
+		dbo.WRK_CLIENTES.City,
+		dbo.WRK_CLIENTES.ZipCode,
+		dbo.WRK_CLIENTES.Gender,
+		dbo.WRK_CLIENTES.Age,
+		dbo.WRK_TRANSACOES.[Order ID], 
+		dbo.WRK_TRANSACOES.[Order Date],
+		dbo.WRK_TRANSACOES.Region,
+		dbo.WRK_TRANSACOES.Rep,
+		dbo.WRK_TRANSACOES.Item,
+		dbo.WRK_TRANSACOES.Units,
+		dbo.WRK_TRANSACOES.[Unit Price]
+FROM
+dbo.WRK_CLIENTES INNER JOIN dbo.WRK_TRANSACOES
+ON dbo.WRK_CLIENTES.[Customer ID] = dbo.WRK_TRANSACOES.[Customer ID]
