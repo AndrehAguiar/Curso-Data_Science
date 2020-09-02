@@ -1,0 +1,11 @@
+[Flat Clientes_Africa [2]] Error: Data conversion failed. The data conversion for column "Feedback" returned status value 4 and status text "Text was truncated or one or more characters had no match in the target code page.".
+
+
+[Flat Clientes_Africa [2]] Error: The "Flat Clientes_Africa.Outputs[Flat File Source Output].Columns[Feedback]" failed because truncation occurred, and the truncation row disposition on "Flat Clientes_Africa.Outputs[Flat File Source Output].Columns[Feedback]" specifies failure on truncation. A truncation error occurred on the specified object of the specified component.
+
+
+[Flat Clientes_Africa [2]] Error: An error occurred while processing file "Y:\20200901 Clientes_Africa\3 - Dados de Upload\20200901\Clientes Africa do Sul.csv" on data row 31351.
+
+
+[SSIS.Pipeline] Error: SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on Flat Clientes_Africa returned error code 0xC0202092.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
